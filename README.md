@@ -1,0 +1,1 @@
+This repository contains a Python code example demonstrating a type error that occurs when trying to add an integer and a string together within a function.  The bug is explained in detail, along with a provided solution. The solution demonstrates how to properly handle potential type mismatches to prevent runtime errors.
